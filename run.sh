@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "ramsita > report
+echo "ramsita" > /tmp/report
