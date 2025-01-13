@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "ramsita" > /tmp/report
+echo "ramsita ki jai" > /tmp/report
