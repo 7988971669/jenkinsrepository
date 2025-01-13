@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "ram" > report
+echo "ramsita > report
